@@ -1,2 +1,3 @@
 # Excel-Projects
 This repository includes excel workbooks that can be used for solving real-life problems. Also, there are different difficulty levels.
+*Note: some of the ideas and the applications are taken from the youtube channel: Excel For Freelancers (https://www.youtube.com/@ExcelForFreelancers/community)
