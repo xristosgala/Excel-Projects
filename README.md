@@ -1,5 +1,6 @@
-# Excel-Projects
-This repository includes excel workbooks that can be used for solving real-life problems.
-This is my journey on excel building real-life application in different difficulty levels.
-*Note: some of the ideas and the applications are taken from the youtube channels such as Excel For Freelancers, and 
-The Office Lab.
+# Excel Projects
+
+This repository contains **Excel workbooks** designed to solve real-world problems.  
+It showcases my journey in building practical Excel applications across different difficulty levels.
+
+> **Note:** Some ideas and applications were inspired by YouTube channels such as *Excel For Freelancers* and *The Office Lab*.
